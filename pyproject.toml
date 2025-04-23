@@ -33,11 +33,8 @@ name = "VerNe"
 email = "yuu_seeing@foxmail.com"
 
 # Project license (replace with your chosen license)
-<<<<<<< HEAD
 license = { file = "LICENSE" } # Or { file = "LICENSE" } if you have a separate LICENSE file
-=======
 license = { text = "MIT" } # Or { file = "LICENSE" } if you have a separate LICENSE file
->>>>>>> 32728321cc8e3a0455e429a8ba8ca0ba55835e7f
 # Also specify the license classifier for PyPI (optional but recommended)
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -47,10 +44,7 @@ classifiers = [
     "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Scientific/Engineering :: Atmospheric Science", # Relevant topic
-<<<<<<< HEAD
     "License :: OSI Approved :: MIT License",
-=======
->>>>>>> 32728321cc8e3a0455e429a8ba8ca0ba55835e7f
 ]
 
 # Keywords (optional)
